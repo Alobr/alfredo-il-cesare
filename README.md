@@ -28,9 +28,9 @@
 
 **Alonso Bracho**
 
-- [Profile](https://github.com/Alobr "Alonso Bracho")
+- [Github](https://github.com/Alobr "Alonso Bracho")
 - [Email](mailto:alonsoae80@gmail.com?subject=Hi "Hi!")
-- [Linkedin](https://www.linkedin.com/in/alobr/ "Welcome")
+- [Linkedin](https://www.linkedin.com/in/alobr/ "Connect")
 
 ## 🤝 Support
 
