@@ -1,6 +1,6 @@
 <h1>Alfredo-il-Cesare</h1>
 
-<p>project-description</p>
+<p>Welcome to the Alfredo il Cesare E-commerce Website! This project was created to simulate an online platform for an Italian restaurant, allowing customers to conveniently explore and order delicious Italian dishes from the comfort of their homes. By combining my skills in HTML, CSS (including Flexbox and Grid), and JavaScript, I have developed a user-friendly and visually appealing website</p>
 
 ## Links
 
