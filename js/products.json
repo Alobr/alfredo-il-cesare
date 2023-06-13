@@ -1,0 +1,322 @@
+[
+  {
+    "id": "pizza-01",
+    "title": "Pizza donatti",
+    "image": "../assets/img/pizza-1.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 120
+  },
+  {
+    "id": "pizza-02",
+    "title": "Pizza il volti",
+    "image": "../assets/img/pizza-2.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 150
+  },
+  {
+    "id": "pizza-03",
+    "title": "Pizza margherita",
+    "image": "../assets/img/pizza-3.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 100
+  },
+  {
+    "id": "pizza-04",
+    "title": "Pizza Diavola",
+    "image": "../assets/img/pizza-4.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 170
+  },
+  {
+    "id": "pizza-05",
+    "title": "Pizza ai funghi",
+    "image": "../assets/img/pizza-5.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 180
+  },
+  {
+    "id": "pizza-06",
+    "title": "Pizza al Vainizzo",
+    "image": "../assets/img/pizza-6.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 150
+  },
+  {
+    "id": "pizza-07",
+    "title": "Pepperoni Pizza",
+    "image": "../assets/img/pizza-7.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 130
+  },
+  {
+    "id": "pizza-08",
+    "title": "Pizza Montalbano",
+    "image": "../assets/img/pizza-8.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 200
+  },
+  {
+    "id": "pizza-09",
+    "title": "Pizza fuggaza",
+    "image": "../assets/img/pizza-9.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 200
+  },
+  {
+    "id": "pizza-10",
+    "title": "Pizza Gatusso",
+    "image": "../assets/img/pizza-10.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 200
+  },
+  {
+    "id": "pizza-11",
+    "title": "Pizza Montecarlo",
+    "image": "../assets/img/pizza-11.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 200
+  },
+  {
+    "id": "pizza-12",
+    "title": "Pizza Moncci",
+    "image": "../assets/img/pizza-12.jpg",
+    "category": {
+      "name": "Pizza",
+      "id": "pizza"
+    },
+    "price": 200
+  },
+  {
+    "id": "pasta-01",
+    "title": "Pasta gamberi",
+    "image": "../assets/img/pasta-1.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 160
+  },
+  {
+    "id": "pasta-02",
+    "title": "Pasta al baccello",
+    "image": "../assets/img/pasta-2.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 200
+  },
+  {
+    "id": "pasta-03",
+    "title": "Pasta pomodoro",
+    "image": "../assets/img/pasta-3.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 200
+  },
+  {
+    "id": "pasta-04",
+    "title": "Pasta macinata",
+    "image": "../assets/img/pasta-4.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 220
+  },
+  {
+    "id": "pasta-05",
+    "title": "Baccelli verdi",
+    "image": "../assets/img/pasta-5.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 200
+  },
+  {
+    "id": "pasta-06",
+    "title": "Pasta ai funghi",
+    "image": "../assets/img/pasta-6.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 270
+  },
+  {
+    "id": "pasta-07",
+    "title": "Pasta al prosciutto",
+    "image": "../assets/img/pasta-7.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 230
+  },
+  {
+    "id": "pasta-08",
+    "title": "Maccheroni",
+    "image": "../assets/img/pasta-8.jpg",
+    "category": {
+      "name": "Pasta",
+      "id": "pasta"
+    },
+    "price": 180
+  },
+  {
+    "id": "dessert-01",
+    "title": "Blueberry pie",
+    "image": "../assets/img/dessert-1.jpg",
+    "category": {
+      "name": "Dessert",
+      "id": "dessert"
+    },
+    "price": 300
+  },
+  {
+    "id": "dessert-02",
+    "title": "Dolce il Cantone",
+    "image": "../assets/img/dessert-2.jpg",
+    "category": {
+      "name": "Dessert",
+      "id": "dessert"
+    },
+    "price": 350
+  },
+  {
+    "id": "dessert-03",
+    "title": "Cookies frutti di bosco",
+    "image": "../assets/img/dessert-3.jpg",
+    "category": {
+      "name": "Dessert",
+      "id": "dessert"
+    },
+    "price": 200
+  },
+  {
+    "id": "dessert-04",
+    "title": "Andriani Strawberry Cake",
+    "image": "../assets/img/dessert-4.jpg",
+    "category": {
+      "name": "Dessert",
+      "id": "dessert"
+    },
+    "price": 280
+  },
+  {
+    "id": "dessert-05",
+    "title": "Fudge Cake",
+    "image": "../assets/img/dessert-5.jpg",
+    "category": {
+      "name": "Dessert",
+      "id": "dessert"
+    },
+    "price": 250
+  },
+  {
+    "id": "dessert-06",
+    "title": "Matarazzo Cake",
+    "image": "../assets/img/dessert-6.jpg",
+    "category": {
+      "name": "Dessert",
+      "id": "dessert"
+    },
+    "price": 300
+  },
+  {
+    "id": "beverage-01",
+    "title": "Tropical fruit",
+    "image": "../assets/img/beverage-1.jpg",
+    "category": {
+      "name": "Beverage",
+      "id": "beverage"
+    },
+    "price": 100
+  },
+  {
+    "id": "beverage-02",
+    "title": "Berry smoothie",
+    "image": "../assets/img/beverage-2.jpg",
+    "category": {
+      "name": "Beverage",
+      "id": "beverage"
+    },
+    "price": 120
+  },
+  {
+    "id": "beverage-03",
+    "title": "Mango juice",
+    "image": "../assets/img/beverage-3.jpg",
+    "category": {
+      "name": "Beverage",
+      "id": "beverage"
+    },
+    "price": 100
+  },
+  {
+    "id": "beverage-04",
+    "title": "Succo di vittoria",
+    "image": "../assets/img/beverage-4.jpg",
+    "category": {
+      "name": "Beverage",
+      "id": "beverage"
+    },
+    "price": 120
+  },
+  {
+    "id": "beverage-05",
+    "title": "Beer",
+    "image": "../assets/img/beverage-5.jpg",
+    "category": {
+      "name": "Beverage",
+      "id": "beverage"
+    },
+    "price": 100
+  },
+  {
+    "id": "beverage-06",
+    "title": "Coca cola",
+    "image": "../assets/img/beverage-6.jpg",
+    "category": {
+      "name": "Beverage",
+      "id": "beverage"
+    },
+    "price": 100
+  }
+]
