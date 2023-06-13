@@ -4,9 +4,9 @@
 
 ## Links
 
-- [Repo](https://github.com/Alobr/<alfredo-il-cesare> "Alfredo-il-Cesare Repo")
+- [Repo](https://github.com/Alobr/alfredo-il-cesare "Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Live](https://alfredo-il-cesare.netlify.app/ "Live View")
 
 
 ## Screenshots
