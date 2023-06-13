@@ -1,10 +1,10 @@
-<h1><Alfredo-il-Cesare></h1>
+<h1>Alfredo-il-Cesare</h1>
 
-<p><project-description></p>
+<p>project-description</p>
 
 ## Links
 
-- [Repo](https://github.com/Alobr/<alfredo-il-cesare> "<Alfredo-il-Cesare> Repo")
+- [Repo](https://github.com/Alobr/<alfredo-il-cesare> "Alfredo-il-Cesare Repo")
 
 - [Live](<Homepage url> "Live View")
 
