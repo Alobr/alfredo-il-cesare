@@ -30,7 +30,7 @@
 
 - [Github](https://github.com/Alobr "Alonso Bracho")
 - [Email](mailto:alonsoae80@gmail.com?subject=Hi "Hi!")
-- [Linkedin](https://www.linkedin.com/in/alobr/ "Connect")
+- [LinkedIn](https://www.linkedin.com/in/alobr/ "Connect")
 
 ## 🤝 Support
 
