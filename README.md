@@ -11,12 +11,11 @@
 
 ## Screenshots
 
-![Home Page](/screenshots/1.png "Home Page")
+![Home Page](./assets/img/screenshot-home.png "Home Page")
 
-![](/screenshots/2.png)
+![Menu Page](./assets/img/screenshot-menu.png "Menu Page")
 
-![](/screenshots/3.png)
-
+![Bio Page](./assets/img/screenshot-bio.png "Bio Page")
 ## Built With
 
 - JavaScript
@@ -28,9 +27,9 @@
 
 **Alonso Bracho**
 
-- [Github](https://github.com/Alobr "Alonso Bracho")
-- [Email](mailto:alonsoae80@gmail.com?subject=Hi "Hi!")
-- [LinkedIn](https://www.linkedin.com/in/alobr/ "Connect")
+- [Github](https://github.com/Alobr "Github Alonso Bracho")
+- [Email](mailto:alonsoae80@gmail.com?subject=Hi "Mail to")
+- [LinkedIn](https://www.linkedin.com/in/alobr/ "Connect with me!")
 
 ## 🤝 Support
 
