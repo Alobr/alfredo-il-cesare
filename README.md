@@ -4,9 +4,9 @@
 
 ## Links
 
-- [Repo](https://github.com/Alobr/<alfredo-il-cesare> "Alfredo-il-Cesare Repo")
+- [Repo](https://github.com/Alobr/alfredo-il-cesare "Repo")
 
-- [Live](<Homepage url> "Live View")
+- [Live](https://alfredo-il-cesare.netlify.app/ "Live View")
 
 
 ## Screenshots
@@ -28,9 +28,9 @@
 
 **Alonso Bracho**
 
-- [Profile](https://github.com/Alobr "Alonso Bracho")
+- [Github](https://github.com/Alobr "Alonso Bracho")
 - [Email](mailto:alonsoae80@gmail.com?subject=Hi "Hi!")
-- [Linkedin](https://www.linkedin.com/in/alobr/ "Welcome")
+- [LinkedIn](https://www.linkedin.com/in/alobr/ "Connect")
 
 ## 🤝 Support
 
